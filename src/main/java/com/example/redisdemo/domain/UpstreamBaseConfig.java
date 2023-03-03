@@ -44,6 +44,8 @@ public class UpstreamBaseConfig implements Serializable {
 
     private String updateTime1;
     private String updateTime5;
+    private String updateTime7;
+
 
 
 }
